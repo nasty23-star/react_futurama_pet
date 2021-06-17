@@ -1,1 +1,1 @@
-# react_futurama_pet
+# react-pet
